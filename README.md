@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Kiran Shehzadi 👋
 
-<!--
-**Kiran-Shehzadi/Kiran-Shehzadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 Introduction
+I am an IT student passionate about programming, problem-solving, and learning new technologies.  
+I aim to build strong skills in software development and grow professionally.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools
+- Programming Languages: C++, C#, Python, JavaScript
+- Web Technologies: HTML, CSS
+- Database: SQL
+- Tools: GitHub, VS Code, Visual Studio
+
+---
+
+## 📫 Contact Information
+- GitHub: https://github.com/Kiran-Shehzadi
+- LinkedIn: https://www.linkedin.com/in/kiran-shehzadi985
+
+---
+
+## 🌟 Fun Facts
+- I love learning new technologies  
+- I enjoy solving logical problems  
+- Aspiring software developer 🚀
